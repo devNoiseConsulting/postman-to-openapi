@@ -1,3 +1,73 @@
+### [1.17.4](https://github.com/joolfe/postman-to-openapi/compare/1.17.3...1.17.4) (2021-09-24)
+
+
+### Bug Fixes
+
+* fallback to parsing non-json raw body as text ([#153](https://github.com/joolfe/postman-to-openapi/issues/153)) ([abb85ec](https://github.com/joolfe/postman-to-openapi/commit/abb85ec0fe289096febc6cdc585295755d0da00f))
+
+
+### Tests
+
+* add test for supported collection versions ([d55abfd](https://github.com/joolfe/postman-to-openapi/commit/d55abfd8ef09c3289b72191ef66fdb53e5a55a89))
+
+
+### Build System
+
+* update version ([6388e81](https://github.com/joolfe/postman-to-openapi/commit/6388e813bce63bb3c2a9a2042cba9eed30bb594f))
+
+### [1.17.3](https://github.com/joolfe/postman-to-openapi/compare/1.17.2...1.17.3) (2021-09-18)
+
+
+### Bug Fixes
+
+* update typescript definition with last added options ([4f83072](https://github.com/joolfe/postman-to-openapi/commit/4f8307236272499746d44483602e4a863de07695))
+
+
+### Build System
+
+* update dependencies to vastest versions ([513ed85](https://github.com/joolfe/postman-to-openapi/commit/513ed85b7677246726ce412da676971b2f65c13a))
+
+### [1.17.2](https://github.com/joolfe/postman-to-openapi/compare/1.17.1...1.17.2) (2021-09-04)
+
+
+### Build System
+
+* deps updated ([18f5446](https://github.com/joolfe/postman-to-openapi/commit/18f54461e9b6378437db69ed016e703d28869c00))
+
+### [1.17.1](https://github.com/joolfe/postman-to-openapi/compare/1.17.0...1.17.1) (2021-08-14)
+
+
+### Bug Fixes
+
+* scrape Url error close [#136](https://github.com/joolfe/postman-to-openapi/issues/136) ([dda9168](https://github.com/joolfe/postman-to-openapi/commit/dda9168896b7d06b79a721f5e14dbdb56c6d8665))
+
+
+### Build System
+
+* update version ([82939b9](https://github.com/joolfe/postman-to-openapi/commit/82939b9a157bd6665017d60e85af9eac6b48aaa6))
+
+## [1.17.0](https://github.com/joolfe/postman-to-openapi/compare/1.16.1...1.17.0) (2021-08-07)
+
+
+### Features
+
+* support path parameter & replace the value and description ([faa7cbc](https://github.com/joolfe/postman-to-openapi/commit/faa7cbcb9259c1af3214b2a03cdad7a40b8509e6))
+
+
+### Code Refactoring
+
+*  simplify vars processing to align with existing code ([f07ec8e](https://github.com/joolfe/postman-to-openapi/commit/f07ec8e549bf2d7834efd1760b42c164d4f2bc05))
+
+
+### Documentation
+
+* update documentation ([4cfff1a](https://github.com/joolfe/postman-to-openapi/commit/4cfff1a5ff27ebb021e49ba0802f749411bdd447))
+
+
+### Build System
+
+* update version ([b60400d](https://github.com/joolfe/postman-to-openapi/commit/b60400d0068e43c978da2efbf8b6565911db1a73))
+
 ### [1.16.1](https://github.com/joolfe/postman-to-openapi/compare/1.16.0...1.16.1) (2021-08-05)
 
 
